@@ -1,0 +1,7 @@
+lxml
+html5lib
+requests
+selenium
+colorama
+python-dotenv
+beautifulsoup4
